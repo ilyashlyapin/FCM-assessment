@@ -12,8 +12,8 @@ This project contains FCM assessment with automated test for the Sauce Demo appl
 ### Step 1: Clone the repository
 
 ```sh
-git clone https://github.com/ilyashlyapin/FCM-ASSESSMENT.git
-cd FCM-ASSESSMENT
+git clone https://github.com/ilyashlyapin/FCM-assessment.git
+cd FCM-assessment
 ```
 
 ### Step 2: Create and activate a virtual environment
